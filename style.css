@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    display: grid;
+    margin: 30px;
+}
+#top_nav_bar {
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 500px;
+}
+#first_paragraph {
+    float: inline-end;
+}
+#moose_picture {
+    float: left;
+    display: inline-block;
+    margin-right: 20px;
+}
+#home {
+    display: inline;
+    margin-right: 200px;
+}
+#fun_facts {
+    display: inline;
+}
